@@ -9,7 +9,7 @@ Node의 Number of connections가 클수록 다른 노드를 밀어내는 힘이 
 
 Number of connections가 커서 marker size가 크게 (설정)된 Node 간 겹침이 줄어든다.
 
-그 힘을 weight로서 Node의 Number of connections에 비례하게 설정하였고(이후 제곱에 비례 등등의 시도를 해볼 예정, 시인성이 개선됐다.)
+그 힘을 weight로서 Node의 Number of connections에 비례하게 설정하였고(이후 제곱에 비례 등등의 시도를 해볼 예정), 시인성이 개선됐다.
 
 개선 전:
 
