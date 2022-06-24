@@ -11,11 +11,11 @@ Number of connections가 커서 marker size가 크게 (설정)된 Node 간 겹�
 
 그 힘을 weight로서 Node의 Number of connections에 비례하게 설정하였고(이후 제곱에 비례 등등의 시도를 해볼 예정, 시인성이 개선됐다.)
 
-<개선 전>
+개선 전:
 
 ![before spacing](https://user-images.githubusercontent.com/96930429/175450197-5b37ffa5-e5a3-4d11-bb74-863b78d7e52b.png)
 
-<개선 후>
+개선 후:
 
 ![after spacing](https://user-images.githubusercontent.com/96930429/175450227-a3ef6c05-11b1-4212-a4a9-3b17cd989364.png)
 
